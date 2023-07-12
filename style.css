@@ -1,0 +1,45 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+}
+.title {
+font-size: 32px;
+text-align:center ;
+}
+
+.image {
+    width: 450px;
+    height: auto;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+}
+
+.description {
+    background-color: rgb(176, 224, 176);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.list li :hover {
+    background-color:  rgb(176, 224, 176);
+}
+
+.list li a {
+text-decoration: none;
+color: black;
+}
+
+.lis li:hover  {
+background-color:  rgb(217, 245, 217);
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+   color: black;
+    background-color: brown;
+}
+
